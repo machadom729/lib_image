@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.0.1
+Summary: Pacote para operações básicas com imagens
+Author: Barreto
+Requires-Python: >=3.9
